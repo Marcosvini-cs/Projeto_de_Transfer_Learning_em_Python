@@ -46,6 +46,7 @@ Esse projeto foi desenvolvido com as tecnologias:
 ### **Slides**
 
 **A apresentação completa utilizada neste módulo está disponível [AQUI](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/Ecwq_t5tuJ5FuyDEMd4qKBwBTFvya9JGszfBlZGnqCoGRQ?e=UTmHbE)**
+
 Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
 
 Bons estudos! ![wink](https://app.digitalinnovation.one/static/ckeditor/ckeditor/plugins/smiley/images/wink_smile.png)
