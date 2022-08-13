@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as tecnologias:
 
 ## 📃**Descrição do Desafio**
 
-### **Projeto de Transfer Learning em Python **
+### **Projeto de Transfer Learning em Python**
 
 1. O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB.  
 
